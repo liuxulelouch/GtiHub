@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <SDWebImage/SDWebImageManager.h>
+
 @interface ViewController : UIViewController
 
 
